@@ -1,8 +1,6 @@
 <h3 title="hehehe"> Hey 👋, I'm Ivan Peña!</h3>
-
-<a href="https://www.linkedin.com/in/iv%C3%A1n-ignacio-pe%C3%B1a-mattos-fullstack/" target="_blank">
-  <img align="left" alt="Jaskirat's LinkedIn" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
-</a>
+<a href="https://www.linkedin.com/in/iv%C3%A1n-ignacio-pe%C3%B1a-mattos-fullstack/"><img src="https://img.shields.io/badge/-Iv%C3%A1n%20Pe%C3%B1a-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:ipmattoscontactos@gmail.com"><img src="https://img.shields.io/badge/-ipmattoscontactos@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 <br />
 <br />
