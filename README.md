@@ -1,6 +1,6 @@
 <h3 title="hehehe"> Hey 👋, I'm Ivan Peña!</h3>
 
-<a href="https://www.linkedin.com/in/iv%C3%A1n-ignacio-pe%C3%B1a-mattos-1647b51b8/" target="_blank">
+<a href="https://www.linkedin.com/in/iv%C3%A1n-ignacio-pe%C3%B1a-mattos-fullstack/" target="_blank">
   <img align="left" alt="Jaskirat's LinkedIn" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 
