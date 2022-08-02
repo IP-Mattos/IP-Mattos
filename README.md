@@ -1,4 +1,4 @@
-<h3 title="hehehe"> Hey 👋, I'm Ivan Peña!</h3>
+<h3 title="hehehe"> Hey 👋, I'm Iván Peña!</h3>
 <a href="https://www.linkedin.com/in/iv%C3%A1n-ignacio-pe%C3%B1a-mattos-fullstack/"><img src="https://img.shields.io/badge/-Iv%C3%A1n%20Pe%C3%B1a-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:ipmattoscontactos@gmail.com"><img src="https://img.shields.io/badge/-ipmattoscontactos@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
