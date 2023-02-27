@@ -12,7 +12,6 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently working on my Elden Ring App project.
 - 🌱 I’m currently exploring  with a big interest Python. 
 - 🤔 My interest lies in front end web and back end development.
 - 💬 Ask me about anything, I love to answer!
