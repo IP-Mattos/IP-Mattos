@@ -53,7 +53,6 @@
 | [claude-startup-kit](https://github.com/IP-Mattos/claude-startup-kit) | Toolkit around Claude Code on Windows: auto-updates, daily brief, startup launcher — with CI and signed releases | PowerShell · Tauri | — |
 | [SanoYRico](https://github.com/IP-Mattos/SanoYRico) | Healthy food web app | Next.js · TypeScript | [Live](https://sano-y-rico.vercel.app) |
 | [Pedidos-App](https://github.com/IP-Mattos/Pedidos-App) | Order management application | Next.js · TypeScript | [Live](https://pedidos-app-dun.vercel.app) |
-| [Padel](https://github.com/IP-Mattos/Padel) | Padel court management system | PHP | [Live](https://padel-mu.vercel.app) |
 | [Portfolio-Windows-XP-Style](https://github.com/IP-Mattos/Portfolio-Windows-XP-Style) | Interactive portfolio with a Windows XP retro interface | HTML · CSS · JS | [Live](https://portfolio-ivan-windows-xp.netlify.app) |
 
 > 🔒 I also maintain private production systems for local companies — cattle-transport logistics, team boards with real-time collaboration, and business management apps.
