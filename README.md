@@ -60,6 +60,9 @@
 ## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IP-Mattos&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IP-Mattos&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" height="165" />
+  <img src="https://streak-stats.demolab.com?user=IP-Mattos&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/409ba5/IP-Mattos" alt="Contribution graph" width="90%" />
 </p>
