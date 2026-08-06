@@ -62,7 +62,3 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=IP-Mattos&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165" />
 </p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/409ba5/IP-Mattos" alt="Contribution graph" width="90%" />
-</p>
